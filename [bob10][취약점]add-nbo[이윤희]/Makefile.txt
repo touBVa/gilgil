@@ -1,0 +1,2 @@
+[bob10]취약점분석add-nbo이윤희:[bob10]취약점분석add-nbo이윤희.cpp
+	 g++ -c [bob10]취약점분석add-nbo이윤희.cpp
